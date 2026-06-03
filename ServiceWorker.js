@@ -1,9 +1,9 @@
 const cacheName = "MasterGames-Duality-1.0";
 const contentToCache = [
-    "Build/update 666.loader.js",
-    "Build/update 666.framework.js.unityweb",
-    "Build/update 666.data.unityweb",
-    "Build/update 666.wasm.unityweb",
+    "Build/update 999999999w.loader.js",
+    "Build/update 999999999w.framework.js.unityweb",
+    "Build/update 999999999w.data.unityweb",
+    "Build/update 999999999w.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
